@@ -1,0 +1,61 @@
+Species,Scope,Area,Opening Date,Closing Date,Days Of Week,Limit
+Deer,Archery,Statewide,09/27/25,02/01/26,ALL,See Bag Limit Map
+Deer,Archery,Disease surveillance areas,09/13/25,02/01/26,ALL,See Bag Limit Map
+Deer,Youth Gun,Statewide,11/22/25,11/23/25,ALL,See Bag Limit Map
+Deer,Gun,Statewide,12/01/25,12/07/25,ALL,See Bag Limit Map
+Deer,Gun Bonus,Statewide,12/20/25,12/21/25,ALL,See Bag Limit Map
+Deer,Muzzleloader,Statewide,01/03/26,01/06/26,ALL,See Bag Limit Map
+Deer,Early Gun,Disease surveillance areas,10/11/25,10/13/25,ALL,See Bag Limit Map
+Turkey,Fall,Statewide,10/01/25,10/26/25,ALL,1/Season
+Squirrel,,Statewide,09/01/25,01/31/26,ALL,6/Day
+Ruffed Grouse,,17 Counties,11/07/25,11/30/25,ALL,1/Day
+Cottontail Rabbit,Youth,Statewide,10/25/25,10/26/25,ALL,4/Day
+Cottontail Rabbit,Youth,Statewide,11/01/25,11/02/25,ALL,4/Day
+Ring-Necked Pheasant,Youth,Statewide,10/25/25,10/26/25,ALL,2/Day
+Ring-Necked Pheasant,Youth,Statewide,11/01/25,11/02/25,ALL,2/Day
+Bobwhite Quail,Youth,Statewide,10/25/25,10/26/25,ALL,2/Day
+Bobwhite Quail,Youth,Statewide,11/01/25,11/02/25,ALL,2/Day
+Cottontail Rabbit,,Statewide,11/07/25,02/28/26,ALL,4/Day
+Ring-Necked Pheasant,Roosters Only,Statewide,11/07/25,01/11/26,ALL,2/Day
+Chukar,,Statewide,11/07/25,01/11/26,ALL,4/Day
+Bobwhite Quail,,16 counties and specific wildlife areas only,11/07/25,11/20/25,ALL,2/Day
+Crow,,Statewide,06/06/25,03/01/26,F:SA:SU,None
+Fox,Hunt + Trap,Statewide,11/10/25,01/31/26,ALL,None
+Raccoon,Hunt + Trap,Statewide,11/10/25,01/31/26,ALL,None
+Skunk,Hunt + Trap,Statewide,11/10/25,01/31/26,ALL,None
+Opossum,Hunt + Trap,Statewide,11/10/25,01/31/26,ALL,None
+Weasel,Hunt + Trap,Statewide,11/10/25,01/31/26,ALL,None
+Mink,Trapping,Statewide,11/10/25,02/28/26,ALL,None
+Muskrat,Trapping,Statewide,11/10/25,02/28/26,ALL,None
+Mink,Trapping,Lake Erie Marsh Zone,11/10/25,03/15/26,ALL,None
+Muskrat,Trapping,Lake Erie Marsh Zone,11/10/25,03/15/26,ALL,None
+Skunk,Trapping,Lake Erie Marsh Zone,11/10/25,03/15/26,ALL,None
+Opossum,Trapping,Lake Erie Marsh Zone,11/10/25,03/15/26,ALL,None
+Weasel,Trapping,Lake Erie Marsh Zone,11/10/25,03/15/26,ALL,None
+Beaver,Trapping,Statewide,12/26/25,02/28/26,ALL,None
+River Otter,Trapping,Zone A,12/26/25,02/28/26,ALL,3/Season
+River Otter,Trapping,Zone B,12/26/25,02/28/26,ALL,1/Season
+Morning Dove,,Statewide,09/01/25,11/09/25,ALL,15/Day
+Morning Dove,,Statewide,12/13/25,01/01/26,ALL,15/Day
+Rail,,Statewide,09/01/25,11/09/25,ALL,25/Day
+Gallinule,Moorhen,Statewide,09/01/25,11/09/25,ALL,15/Day
+Wilson’s Snipe,,Statewide,09/01/25,11/19/25,ALL,8/Day
+Wilson’s Snipe,,Statewide,12/06/25,01/01/26,ALL,8/Day
+American Woodcock,,Statewide,10/11/25,11/24/25,ALL,3/Day
+Goose,Early,Statewide,09/06/25,09/14/25,ALL,"5/Day, Canada and Cackling only"
+Teal,Early,Statewide,09/06/25,09/14/25,ALL,6/Day
+Waterfowl,Youth,Statewide,10/04/25,10/05/25,ALL,Same As Regular Season
+Waterfowl,Active Military,Statewide,10/04/25,10/05/25,ALL,Same As Regular Season
+Waterfowl,Veterans,Statewide,10/04/25,10/05/25,ALL,Same As Regular Season
+Goose,,Lake Erie Marsh Zone,10/18/25,11/02/25,ALL,"5/Day: Canada, Cackling, and White-Fronted Geese, and may include no more than 1 Brant, 10/Day: Light Geese"
+Goose,,Lake Erie Marsh Zone,11/15/25,02/02/26,ALL,"5/Day: Canada, Cackling, and White-Fronted Geese, and may include no more than 1 Brant, 10/Day: Light Geese"
+Goose,,North Zone,10/18/25,10/26/25,ALL,"5/Day: Canada, Cackling, and White-Fronted Geese, and may include no more than 1 Brant, 10/Day: Light Geese"
+Goose,,North Zone,11/15/25,02/09/26,ALL,"5/Day: Canada, Cackling, and White-Fronted Geese, and may include no more than 1 Brant, 10/Day: Light Geese"
+Goose,,South Zone,10/18/25,10/27/25,ALL,"5/Day: Canada, Cackling, and White-Fronted Geese, and may include no more than 1 Brant, 10/Day: Light Geese"
+Goose,,North Zone,11/16/25,02/09/26,ALL,"5/Day: Canada, Cackling, and White-Fronted Geese, and may include no more than 1 Brant, 10/Day: Light Geese"
+Duck,,Lake Erie Marsh Zone,10/18/25,11/02/25,ALL,6/Day (With Restrictions)
+Duck,,Lake Erie Marsh Zone,11/15/25,12/28/25,ALL,6/Day (With Restrictions)
+Duck,,North Zone,10/18/25,10/26/25,ALL,6/Day (With Restrictions)
+Duck,,North Zone,11/15/25,01/04/26,ALL,6/Day (With Restrictions)
+Duck,,South Zone,10/18/25,10/27/25,ALL,6/Day (With Restrictions)
+Duck,,South Zone,12/13/25,01/31/26,ALL,6/Day (With Restrictions)
