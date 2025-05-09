@@ -3,6 +3,11 @@
 ## Overview
 This Python script generates an iCalendar (.ics) file from CSV data containing hunting season information. The calendar includes events for each hunting season with detailed information about the species, areas, and bag limits.
 
+| Calendar                                                                                               | Description                                                                        |
+|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| ![Screenshot 1](./screenshots/calendar.png)                                                            | ![Screenshot 2](./screenshots/description.png)                                     |
+| This shows what your calendar would look like if you subscribed to the ohio_2526.ics cal in this repo. | This shows what you would see if you clicked into a date with 16 huntable species. |
+
 ## Requirements
 - Python 3.6+
 - Required Python packages:
