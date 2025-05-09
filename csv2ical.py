@@ -182,7 +182,7 @@ for date in sorted(hunting_calendar.keys()):
     unique_species = set(species for species, _ in species_groups.keys())
 
     event.add('summary', f"{len(unique_species)} Species")
-    event.add('description', "\n".join(description_lines))
+    event.add('description', "\n\n".join(description_lines))
 
     # Add start date (use UTC for simplicity)
     event_start = datetime.combine(date, datetime.min.time())

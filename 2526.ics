@@ -83,1086 +83,1112 @@ BEGIN:VEVENT
 SUMMARY:5 Species
 DTSTART;VALUE=DATE:20250901
 DTEND;VALUE=DATE:20250905
-DESCRIPTION:Gallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Statewid
- e): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nWilson
- ’s Snipe (Statewide): 8/Day
+DESCRIPTION:Gallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Statew
+ ide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day\n\
+ nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6 Species
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250906
-DESCRIPTION:Crow (Statewide): None\nGallinule (Moorhen: Statewide): 15/Day
- \nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (St
- atewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nGallinule (Moorhen: Statewide): 15/D
+ ay\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSqui
+ rrel (Statewide): 6/Day\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250908
-DESCRIPTION:Crow (Statewide): None\nGallinule (Moorhen: Statewide): 15/Day
- \nGoose (Early: Statewide): 5/Day\, Canada and Cackling only\nMorning Dove
-  (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Da
- y\nTeal (Early: Statewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nGallinule (Moorhen: Statewide): 15/D
+ ay\n\nGoose (Early: Statewide): 5/Day\, Canada and Cackling only\n\nMornin
+ g Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statew
+ ide): 6/Day\n\nTeal (Early: Statewide): 6/Day\n\nWilson’s Snipe (Statewi
+ de): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Species
 DTSTART;VALUE=DATE:20250908
 DTEND;VALUE=DATE:20250912
-DESCRIPTION:Gallinule (Moorhen: Statewide): 15/Day\nGoose (Early: Statewid
- e): 5/Day\, Canada and Cackling only\nMorning Dove (Statewide): 15/Day\nRa
- il (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nTeal (Early: Statewid
- e): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Gallinule (Moorhen: Statewide): 15/Day\n\nGoose (Early: Statew
+ ide): 5/Day\, Canada and Cackling only\n\nMorning Dove (Statewide): 15/Day
+ \n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nTeal (Early
+ : Statewide): 6/Day\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20250912
 DTEND;VALUE=DATE:20250913
-DESCRIPTION:Crow (Statewide): None\nGallinule (Moorhen: Statewide): 15/Day
- \nGoose (Early: Statewide): 5/Day\, Canada and Cackling only\nMorning Dove
-  (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Da
- y\nTeal (Early: Statewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nGallinule (Moorhen: Statewide): 15/D
+ ay\n\nGoose (Early: Statewide): 5/Day\, Canada and Cackling only\n\nMornin
+ g Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statew
+ ide): 6/Day\n\nTeal (Early: Statewide): 6/Day\n\nWilson’s Snipe (Statewi
+ de): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20250913
 DTEND;VALUE=DATE:20250915
-DESCRIPTION:Crow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas): See Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Day\nGoose (Ea
- rly: Statewide): 5/Day\, Canada and Cackling only\nMorning Dove (Statewide
- ): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nTeal (Ea
- rly: Statewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nDeer (Archery: Disease surveillance 
+ areas): See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nGoo
+ se (Early: Statewide): 5/Day\, Canada and Cackling only\n\nMorning Dove (S
+ tatewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/D
+ ay\n\nTeal (Early: Statewide): 6/Day\n\nWilson’s Snipe (Statewide): 8/Da
+ y
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6 Species
 DTSTART;VALUE=DATE:20250915
 DTEND;VALUE=DATE:20250919
 DESCRIPTION:Deer (Archery: Disease surveillance areas): See Bag Limit Map\
- nGallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Statewide): 15/Day\
- nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nWilson’s Snipe (
- Statewide): 8/Day
+ n\nGallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Statewide): 15/
+ Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nWilson
+ ’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Species
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250922
-DESCRIPTION:Crow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas): See Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Day\nMorning D
- ove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6
- /Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nDeer (Archery: Disease surveillance 
+ areas): See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nMor
+ ning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Sta
+ tewide): 6/Day\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6 Species
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250926
 DESCRIPTION:Deer (Archery: Disease surveillance areas): See Bag Limit Map\
- nGallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Statewide): 15/Day\
- nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nWilson’s Snipe (
- Statewide): 8/Day
+ n\nGallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Statewide): 15/
+ Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nWilson
+ ’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Species
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
-DESCRIPTION:Crow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas): See Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Day\nMorning D
- ove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6
- /Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nDeer (Archery: Disease surveillance 
+ areas): See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nMor
+ ning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Sta
+ tewide): 6/Day\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Species
 DTSTART;VALUE=DATE:20250927
 DTEND;VALUE=DATE:20250929
-DESCRIPTION:Crow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Da
- y\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (S
- tatewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nDeer (Archery: Disease surveillance 
+ areas\, Statewide): See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 1
+ 5/Day\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nS
+ quirrel (Statewide): 6/Day\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6 Species
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20251001
 DESCRIPTION:Deer (Archery: Disease surveillance areas\, Statewide): See Ba
- g Limit Map\nGallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Statewi
- de): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nWilson
- ’s Snipe (Statewide): 8/Day
+ g Limit Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Sta
+ tewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day
+ \n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Species
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251003
 DESCRIPTION:Deer (Archery: Disease surveillance areas\, Statewide): See Ba
- g Limit Map\nGallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Statewi
- de): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nTurkey
-  (Fall: Statewide): 1/Season\nWilson’s Snipe (Statewide): 8/Day
+ g Limit Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Sta
+ tewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day
+ \n\nTurkey (Fall: Statewide): 1/Season\n\nWilson’s Snipe (Statewide): 8/
+ Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251004
-DESCRIPTION:Crow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Da
- y\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (S
- tatewide): 6/Day\nTurkey (Fall: Statewide): 1/Season\nWilson’s Snipe (St
- atewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nDeer (Archery: Disease surveillance 
+ areas\, Statewide): See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 1
+ 5/Day\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nS
+ quirrel (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\nWilson
+ ’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251006
-DESCRIPTION:Crow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Da
- y\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (S
- tatewide): 6/Day\nTurkey (Fall: Statewide): 1/Season\nWaterfowl (Active Mi
- litary: Statewide | Veterans: Statewide | Youth: Statewide): Same As Regul
- ar Season\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nDeer (Archery: Disease surveillance 
+ areas\, Statewide): See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 1
+ 5/Day\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nS
+ quirrel (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\nWaterf
+ owl (Active Military: Statewide | Veterans: Statewide | Youth: Statewide):
+  Same As Regular Season\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Species
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251010
 DESCRIPTION:Deer (Archery: Disease surveillance areas\, Statewide): See Ba
- g Limit Map\nGallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Statewi
- de): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nTurkey
-  (Fall: Statewide): 1/Season\nWilson’s Snipe (Statewide): 8/Day
+ g Limit Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Sta
+ tewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day
+ \n\nTurkey (Fall: Statewide): 1/Season\n\nWilson’s Snipe (Statewide): 8/
+ Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
-DESCRIPTION:Crow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Da
- y\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (S
- tatewide): 6/Day\nTurkey (Fall: Statewide): 1/Season\nWilson’s Snipe (St
- atewide): 8/Day
+DESCRIPTION:Crow (Statewide): None\n\nDeer (Archery: Disease surveillance 
+ areas\, Statewide): See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 1
+ 5/Day\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nS
+ quirrel (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\nWilson
+ ’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20251011
 DTEND;VALUE=DATE:20251013
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nCrow (Statewide): None\n
- Deer (Archery: Disease surveillance areas\, Statewide | Early Gun: Disease
-  surveillance areas): See Bag Limit Map\nGallinule (Moorhen: Statewide): 1
- 5/Day\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirre
- l (Statewide): 6/Day\nTurkey (Fall: Statewide): 1/Season\nWilson’s Snipe
-  (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nCrow (Statewide): None
+ \n\nDeer (Archery: Disease surveillance areas\, Statewide | Early Gun: Dis
+ ease surveillance areas): See Bag Limit Map\n\nGallinule (Moorhen: Statewi
+ de): 15/Day\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Da
+ y\n\nSquirrel (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\n
+ Wilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20251013
 DTEND;VALUE=DATE:20251014
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nDeer (Archery: Disease s
- urveillance areas\, Statewide | Early Gun: Disease surveillance areas): Se
- e Bag Limit Map\nGallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Sta
- tewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nTu
- rkey (Fall: Statewide): 1/Season\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nDeer (Archery: Disease
+  surveillance areas\, Statewide | Early Gun: Disease surveillance areas): 
+ See Bag Limit Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nMorning Dov
+ e (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide):
+  6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\nWilson’s Snipe (Statewid
+ e): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251017
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nDeer (Archery: Disease s
- urveillance areas\, Statewide): See Bag Limit Map\nGallinule (Moorhen: Sta
- tewide): 15/Day\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Da
- y\nSquirrel (Statewide): 6/Day\nTurkey (Fall: Statewide): 1/Season\nWilson
- ’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nDeer (Archery: Disease
+  surveillance areas\, Statewide): See Bag Limit Map\n\nGallinule (Moorhen:
+  Statewide): 15/Day\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide
+ ): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Se
+ ason\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nCrow (Statewide): None\n
- Deer (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\
- nGallinule (Moorhen: Statewide): 15/Day\nMorning Dove (Statewide): 15/Day\
- nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nTurkey (Fall: Stat
- ewide): 1/Season\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nCrow (Statewide): None
+ \n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit 
+ Map\n\nGallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Statewide):
+  15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nTurk
+ ey (Fall: Statewide): 1/Season\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11 Species
 DTSTART;VALUE=DATE:20251018
 DTEND;VALUE=DATE:20251020
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nCrow (Statewide): None\n
- Deer (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\
- nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With Restri
- ctions)\nGallinule (Moorhen: Statewide): 15/Day\nGoose (Lake Erie Marsh Zo
- ne\, North Zone\, South Zone): 5/Day: Canada\, Cackling\, and White-Fronte
- d Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMorn
- ing Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewid
- e): 6/Day\nTurkey (Fall: Statewide): 1/Season\nWilson’s Snipe (Statewide
- ): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nCrow (Statewide): None
+ \n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit 
+ Map\n\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With 
+ Restrictions)\n\nGallinule (Moorhen: Statewide): 15/Day\n\nGoose (Lake Eri
+ e Marsh Zone\, North Zone\, South Zone): 5/Day: Canada\, Cackling\, and Wh
+ ite-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light G
+ eese\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSq
+ uirrel (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\nWilson
+ ’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Species
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251024
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nDeer (Archery: Disease s
- urveillance areas\, Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Z
- one\, North Zone\, South Zone): 6/Day (With Restrictions)\nGallinule (Moor
- hen: Statewide): 15/Day\nGoose (Lake Erie Marsh Zone\, North Zone\, South 
- Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may includ
- e no more than 1 Brant\, 10/Day: Light Geese\nMorning Dove (Statewide): 15
- /Day\nRail (Statewide): 25/Day\nSquirrel (Statewide): 6/Day\nTurkey (Fall:
-  Statewide): 1/Season\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nDeer (Archery: Disease
+  surveillance areas\, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Mar
+ sh Zone\, North Zone\, South Zone): 6/Day (With Restrictions)\n\nGallinule
+  (Moorhen: Statewide): 15/Day\n\nGoose (Lake Erie Marsh Zone\, North Zone\
+ , South Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and ma
+ y include no more than 1 Brant\, 10/Day: Light Geese\n\nMorning Dove (Stat
+ ewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirrel (Statewide): 6/Day\
+ n\nTurkey (Fall: Statewide): 1/Season\n\nWilson’s Snipe (Statewide): 8/D
+ ay
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11 Species
 DTSTART;VALUE=DATE:20251024
 DTEND;VALUE=DATE:20251025
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nCrow (Statewide): None\n
- Deer (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\
- nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With Restri
- ctions)\nGallinule (Moorhen: Statewide): 15/Day\nGoose (Lake Erie Marsh Zo
- ne\, North Zone\, South Zone): 5/Day: Canada\, Cackling\, and White-Fronte
- d Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMorn
- ing Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewid
- e): 6/Day\nTurkey (Fall: Statewide): 1/Season\nWilson’s Snipe (Statewide
- ): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nCrow (Statewide): None
+ \n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit 
+ Map\n\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With 
+ Restrictions)\n\nGallinule (Moorhen: Statewide): 15/Day\n\nGoose (Lake Eri
+ e Marsh Zone\, North Zone\, South Zone): 5/Day: Canada\, Cackling\, and Wh
+ ite-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light G
+ eese\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSq
+ uirrel (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\nWilson
+ ’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14 Species
 DTSTART;VALUE=DATE:20251025
 DTEND;VALUE=DATE:20251027
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (Youth: S
- tatewide): 2/Day\nCottontail Rabbit (Youth: Statewide): 4/Day\nCrow (State
- wide): None\nDeer (Archery: Disease surveillance areas\, Statewide): See B
- ag Limit Map\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day
-  (With Restrictions)\nGallinule (Moorhen: Statewide): 15/Day\nGoose (Lake 
- Erie Marsh Zone\, North Zone\, South Zone): 5/Day: Canada\, Cackling\, and
-  White-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Ligh
- t Geese\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nRing-
- Necked Pheasant (Youth: Statewide): 2/Day\nSquirrel (Statewide): 6/Day\nTu
- rkey (Fall: Statewide): 1/Season\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (Youth:
+  Statewide): 2/Day\n\nCottontail Rabbit (Youth: Statewide): 4/Day\n\nCrow 
+ (Statewide): None\n\nDeer (Archery: Disease surveillance areas\, Statewide
+ ): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zo
+ ne): 6/Day (With Restrictions)\n\nGallinule (Moorhen: Statewide): 15/Day\n
+ \nGoose (Lake Erie Marsh Zone\, North Zone\, South Zone): 5/Day: Canada\, 
+ Cackling\, and White-Fronted Geese\, and may include no more than 1 Brant\
+ , 10/Day: Light Geese\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewi
+ de): 25/Day\n\nRing-Necked Pheasant (Youth: Statewide): 2/Day\n\nSquirrel 
+ (Statewide): 6/Day\n\nTurkey (Fall: Statewide): 1/Season\n\nWilson’s Sni
+ pe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nDeer (Archery: Disease s
- urveillance areas\, Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Z
- one\, South Zone): 6/Day (With Restrictions)\nGallinule (Moorhen: Statewid
- e): 15/Day\nGoose (Lake Erie Marsh Zone\, South Zone): 5/Day: Canada\, Cac
- kling\, and White-Fronted Geese\, and may include no more than 1 Brant\, 1
- 0/Day: Light Geese\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25
- /Day\nSquirrel (Statewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nDeer (Archery: Disease
+  surveillance areas\, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Mar
+ sh Zone\, South Zone): 6/Day (With Restrictions)\n\nGallinule (Moorhen: St
+ atewide): 15/Day\n\nGoose (Lake Erie Marsh Zone\, South Zone): 5/Day: Cana
+ da\, Cackling\, and White-Fronted Geese\, and may include no more than 1 B
+ rant\, 10/Day: Light Geese\n\nMorning Dove (Statewide): 15/Day\n\nRail (St
+ atewide): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nWilson’s Snipe (State
+ wide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251031
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nDeer (Archery: Disease s
- urveillance areas\, Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Z
- one): 6/Day (With Restrictions)\nGallinule (Moorhen: Statewide): 15/Day\nG
- oose (Lake Erie Marsh Zone): 5/Day: Canada\, Cackling\, and White-Fronted 
- Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMornin
- g Dove (Statewide): 15/Day\nRail (Statewide): 25/Day\nSquirrel (Statewide)
- : 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nDeer (Archery: Disease
+  surveillance areas\, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Mar
+ sh Zone): 6/Day (With Restrictions)\n\nGallinule (Moorhen: Statewide): 15/
+ Day\n\nGoose (Lake Erie Marsh Zone): 5/Day: Canada\, Cackling\, and White-
+ Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese
+ \n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide): 25/Day\n\nSquirr
+ el (Statewide): 6/Day\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Species
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nCrow (Statewide): None\n
- Deer (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\
- nDuck (Lake Erie Marsh Zone): 6/Day (With Restrictions)\nGallinule (Moorhe
- n: Statewide): 15/Day\nGoose (Lake Erie Marsh Zone): 5/Day: Canada\, Cackl
- ing\, and White-Fronted Geese\, and may include no more than 1 Brant\, 10/
- Day: Light Geese\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/D
- ay\nSquirrel (Statewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nCrow (Statewide): None
+ \n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit 
+ Map\n\nDuck (Lake Erie Marsh Zone): 6/Day (With Restrictions)\n\nGallinule
+  (Moorhen: Statewide): 15/Day\n\nGoose (Lake Erie Marsh Zone): 5/Day: Cana
+ da\, Cackling\, and White-Fronted Geese\, and may include no more than 1 B
+ rant\, 10/Day: Light Geese\n\nMorning Dove (Statewide): 15/Day\n\nRail (St
+ atewide): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nWilson’s Snipe (State
+ wide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:13 Species
 DTSTART;VALUE=DATE:20251101
 DTEND;VALUE=DATE:20251103
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (Youth: S
- tatewide): 2/Day\nCottontail Rabbit (Youth: Statewide): 4/Day\nCrow (State
- wide): None\nDeer (Archery: Disease surveillance areas\, Statewide): See B
- ag Limit Map\nDuck (Lake Erie Marsh Zone): 6/Day (With Restrictions)\nGall
- inule (Moorhen: Statewide): 15/Day\nGoose (Lake Erie Marsh Zone): 5/Day: C
- anada\, Cackling\, and White-Fronted Geese\, and may include no more than 
- 1 Brant\, 10/Day: Light Geese\nMorning Dove (Statewide): 15/Day\nRail (Sta
- tewide): 25/Day\nRing-Necked Pheasant (Youth: Statewide): 2/Day\nSquirrel 
- (Statewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (Youth:
+  Statewide): 2/Day\n\nCottontail Rabbit (Youth: Statewide): 4/Day\n\nCrow 
+ (Statewide): None\n\nDeer (Archery: Disease surveillance areas\, Statewide
+ ): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone): 6/Day (With Restricti
+ ons)\n\nGallinule (Moorhen: Statewide): 15/Day\n\nGoose (Lake Erie Marsh Z
+ one): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include
+  no more than 1 Brant\, 10/Day: Light Geese\n\nMorning Dove (Statewide): 1
+ 5/Day\n\nRail (Statewide): 25/Day\n\nRing-Necked Pheasant (Youth: Statewid
+ e): 2/Day\n\nSquirrel (Statewide): 6/Day\n\nWilson’s Snipe (Statewide): 
+ 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Species
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251107
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nDeer (Archery: Disease s
- urveillance areas\, Statewide): See Bag Limit Map\nGallinule (Moorhen: Sta
- tewide): 15/Day\nMorning Dove (Statewide): 15/Day\nRail (Statewide): 25/Da
- y\nSquirrel (Statewide): 6/Day\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nDeer (Archery: Disease
+  surveillance areas\, Statewide): See Bag Limit Map\n\nGallinule (Moorhen:
+  Statewide): 15/Day\n\nMorning Dove (Statewide): 15/Day\n\nRail (Statewide
+ ): 25/Day\n\nSquirrel (Statewide): 6/Day\n\nWilson’s Snipe (Statewide): 
+ 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:13 Species
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251110
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (16 count
- ies and specific wildlife areas only): 2/Day\nChukar (Statewide): 4/Day\nC
- ottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Archery
- : Disease surveillance areas\, Statewide): See Bag Limit Map\nGallinule (M
- oorhen: Statewide): 15/Day\nMorning Dove (Statewide): 15/Day\nRail (Statew
- ide): 25/Day\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRuff
- ed Grouse (17 Counties): 1/Day\nSquirrel (Statewide): 6/Day\nWilson’s Sn
- ipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (16 cou
+ nties and specific wildlife areas only): 2/Day\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nDee
+ r (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\n\n
+ Gallinule (Moorhen: Statewide): 15/Day\n\nMorning Dove (Statewide): 15/Day
+ \n\nRail (Statewide): 25/Day\n\nRing-Necked Pheasant (Roosters Only: State
+ wide): 2/Day\n\nRuffed Grouse (17 Counties): 1/Day\n\nSquirrel (Statewide)
+ : 6/Day\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251114
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (16 count
- ies and specific wildlife areas only): 2/Day\nChukar (Statewide): 4/Day\nC
- ottontail Rabbit (Statewide): 4/Day\nDeer (Archery: Disease surveillance a
- reas\, Statewide): See Bag Limit Map\nFox (Hunt + Trap: Statewide): None\n
- Mink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping
- : Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statewide
-  | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide)
- : None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRuffed Gro
- use (17 Counties): 1/Day\nSkunk (Hunt + Trap: Statewide | Trapping: Lake E
- rie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: S
- tatewide | Trapping: Lake Erie Marsh Zone): None\nWilson’s Snipe (Statew
- ide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (16 cou
+ nties and specific wildlife areas only): 2/Day\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nDeer (Archery: Disease survei
+ llance areas\, Statewide): See Bag Limit Map\n\nFox (Hunt + Trap: Statewid
+ e): None\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMus
+ krat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt +
+  Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt 
+ + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Only: Statewide
+ ): 2/Day\n\nRuffed Grouse (17 Counties): 1/Day\n\nSkunk (Hunt + Trap: Stat
+ ewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/D
+ ay\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): No
+ ne\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (16 count
- ies and specific wildlife areas only): 2/Day\nChukar (Statewide): 4/Day\nC
- ottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Archery
- : Disease surveillance areas\, Statewide): See Bag Limit Map\nFox (Hunt + 
- Trap: Statewide): None\nMink (Trapping: Lake Erie Marsh Zone\, Statewide):
-  None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum
-  (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon 
- (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (Roosters Only: State
- wide): 2/Day\nRuffed Grouse (17 Counties): 1/Day\nSkunk (Hunt + Trap: Stat
- ewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day
- \nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n
- Wilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (16 cou
+ nties and specific wildlife areas only): 2/Day\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nDee
+ r (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\n\n
+ Fox (Hunt + Trap: Statewide): None\n\nMink (Trapping: Lake Erie Marsh Zone
+ \, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide
+ ): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zon
+ e): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant
+  (Roosters Only: Statewide): 2/Day\n\nRuffed Grouse (17 Counties): 1/Day\n
+ \nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\
+ nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping:
+  Lake Erie Marsh Zone): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19 Species
 DTSTART;VALUE=DATE:20251115
 DTEND;VALUE=DATE:20251117
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (16 count
- ies and specific wildlife areas only): 2/Day\nChukar (Statewide): 4/Day\nC
- ottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Archery
- : Disease surveillance areas\, Statewide): See Bag Limit Map\nDuck (Lake E
- rie Marsh Zone\, North Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap:
-  Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canad
- a\, Cackling\, and White-Fronted Geese\, and may include no more than 1 Br
- ant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewid
- e): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpos
- sum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRacco
- on (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (Roosters Only: St
- atewide): 2/Day\nRuffed Grouse (17 Counties): 1/Day\nSkunk (Hunt + Trap: S
- tatewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/
- Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): Non
- e\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (16 cou
+ nties and specific wildlife areas only): 2/Day\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nDee
+ r (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\n\n
+ Duck (Lake Erie Marsh Zone\, North Zone): 6/Day (With Restrictions)\n\nFox
+  (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\, North Zon
+ e): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include n
+ o more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Mar
+ sh Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, St
+ atewide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Ma
+ rsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRing-Necked P
+ heasant (Roosters Only: Statewide): 2/Day\n\nRuffed Grouse (17 Counties): 
+ 1/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): 
+ None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Tr
+ apping: Lake Erie Marsh Zone): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18 Species
 DTSTART;VALUE=DATE:20251117
 DTEND;VALUE=DATE:20251120
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (16 count
- ies and specific wildlife areas only): 2/Day\nChukar (Statewide): 4/Day\nC
- ottontail Rabbit (Statewide): 4/Day\nDeer (Archery: Disease surveillance a
- reas\, Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Z
- one): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGoose
-  (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White
- -Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light Gees
- e\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapp
- ing: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statew
- ide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewi
- de): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRuffed 
- Grouse (17 Counties): 1/Day\nSkunk (Hunt + Trap: Statewide | Trapping: Lak
- e Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap
- : Statewide | Trapping: Lake Erie Marsh Zone): None\nWilson’s Snipe (Sta
- tewide): 8/Day
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (16 cou
+ nties and specific wildlife areas only): 2/Day\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nDeer (Archery: Disease survei
+ llance areas\, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone
+ \, North Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide):
+  None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackli
+ ng\, and White-Fronted Geese\, and may include no more than 1 Brant\, 10/D
+ ay: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None
+ \n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum 
+ (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon
+  (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Only: St
+ atewide): 2/Day\n\nRuffed Grouse (17 Counties): 1/Day\n\nSkunk (Hunt + Tra
+ p: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewid
+ e): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zo
+ ne): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nBobwhite Quail (16 count
- ies and specific wildlife areas only): 2/Day\nChukar (Statewide): 4/Day\nC
- ottontail Rabbit (Statewide): 4/Day\nDeer (Archery: Disease surveillance a
- reas\, Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Z
- one): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGoose
-  (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White
- -Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light Gees
- e\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapp
- ing: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statew
- ide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewi
- de): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRuffed 
- Grouse (17 Counties): 1/Day\nSkunk (Hunt + Trap: Statewide | Trapping: Lak
- e Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap
- : Statewide | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nBobwhite Quail (16 cou
+ nties and specific wildlife areas only): 2/Day\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nDeer (Archery: Disease survei
+ llance areas\, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone
+ \, North Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide):
+  None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackli
+ ng\, and White-Fronted Geese\, and may include no more than 1 Brant\, 10/D
+ ay: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None
+ \n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum 
+ (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon
+  (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Only: St
+ atewide): 2/Day\n\nRuffed Grouse (17 Counties): 1/Day\n\nSkunk (Hunt + Tra
+ p: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewid
+ e): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zo
+ ne): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nChukar (Statewide): 4/Da
- y\nCottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Arc
- hery: Disease surveillance areas\, Statewide): See Bag Limit Map\nDuck (La
- ke Erie Marsh Zone\, North Zone): 6/Day (With Restrictions)\nFox (Hunt + T
- rap: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: C
- anada\, Cackling\, and White-Fronted Geese\, and may include no more than 
- 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Stat
- ewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n
- Opossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nR
- accoon (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (Roosters Only
- : Statewide): 2/Day\nRuffed Grouse (17 Counties): 1/Day\nSkunk (Hunt + Tra
- p: Statewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide)
- : 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone):
-  None
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nChukar (Statewide): 4/
+ Day\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nD
+ eer (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\n
+ \nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (With Restrictions)\n\nF
+ ox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\, North Z
+ one): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include
+  no more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie M
+ arsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, 
+ Statewide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie 
+ Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRing-Necked
+  Pheasant (Roosters Only: Statewide): 2/Day\n\nRuffed Grouse (17 Counties)
+ : 1/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone)
+ : None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | 
+ Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20251122
 DTEND;VALUE=DATE:20251124
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nChukar (Statewide): 4/Da
- y\nCottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Arc
- hery: Disease surveillance areas\, Statewide | Youth Gun: Statewide): See 
- Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (With Restr
- ictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\
- , North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and ma
- y include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake
-  Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zo
- ne\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Er
- ie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRing-Necked 
- Pheasant (Roosters Only: Statewide): 2/Day\nRuffed Grouse (17 Counties): 1
- /Day\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): Non
- e\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping:
-  Lake Erie Marsh Zone): None
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nChukar (Statewide): 4/
+ Day\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nD
+ eer (Archery: Disease surveillance areas\, Statewide | Youth Gun: Statewid
+ e): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (
+ With Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Er
+ ie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted 
+ Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink
+  (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: 
+ Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide
+  | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewid
+ e): None\n\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nRuff
+ ed Grouse (17 Counties): 1/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping
+ : Lake Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hu
+ nt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
-DESCRIPTION:American Woodcock (Statewide): 3/Day\nChukar (Statewide): 4/Da
- y\nCottontail Rabbit (Statewide): 4/Day\nDeer (Archery: Disease surveillan
- ce areas\, Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, Nor
- th Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nG
- oose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and W
- hite-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light 
- Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (T
- rapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: St
- atewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Sta
- tewide): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRuf
- fed Grouse (17 Counties): 1/Day\nSkunk (Hunt + Trap: Statewide | Trapping:
-  Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + 
- Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:American Woodcock (Statewide): 3/Day\n\nChukar (Statewide): 4/
+ Day\n\nCottontail Rabbit (Statewide): 4/Day\n\nDeer (Archery: Disease surv
+ eillance areas\, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zo
+ ne\, North Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide
+ ): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cack
+ ling\, and White-Fronted Geese\, and may include no more than 1 Brant\, 10
+ /Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): No
+ ne\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossu
+ m (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRacco
+ on (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Only: 
+ Statewide): 2/Day\n\nRuffed Grouse (17 Counties): 1/Day\n\nSkunk (Hunt + T
+ rap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statew
+ ide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh 
+ Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Species
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251128
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit M
- ap\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (With Restrictions)\nF
- ox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zon
- e): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include n
- o more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh
-  Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statew
- ide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zo
- ne): None\nRaccoon (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (R
- oosters Only: Statewide): 2/Day\nRuffed Grouse (17 Counties): 1/Day\nSkunk
-  (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel
-  (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie 
- Marsh Zone): None
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Lim
+ it Map\n\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (With Restrictio
+ ns)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\,
+  North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may
+  include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lak
+ e Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh
+  Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: La
+ ke Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRin
+ g-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nRuffed Grouse (17 C
+ ounties): 1/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Mar
+ sh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Stat
+ ewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251201
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nCrow (Statewide): None\nDeer (Archery: Disease surveillance areas\, Sta
- tewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Da
- y (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Eri
- e Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted G
- eese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMink (T
- rapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake 
- Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trap
- ping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\
- nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRuffed Grouse (17
-  Counties): 1/Day\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Mar
- sh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewid
- e | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveillance areas
+ \, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone\, North Zon
+ e): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoo
+ se (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and Whi
+ te-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light Ge
+ ese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat 
+ (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap
+ : Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Tra
+ p: Statewide): None\n\nRing-Necked Pheasant (Roosters Only: Statewide): 2/
+ Day\n\nRuffed Grouse (17 Counties): 1/Day\n\nSkunk (Hunt + Trap: Statewide
+  | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\
+ nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14 Species
 DTSTART;VALUE=DATE:20251201
 DTEND;VALUE=DATE:20251205
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nDeer (Archery: Disease surveillance areas\, Statewide | Gun: Statewide)
- : See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (With
-  Restrictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh
-  Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, 
- and may include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping
- : Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Ma
- rsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trapping: L
- ake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRing-N
- ecked Pheasant (Roosters Only: Statewide): 2/Day\nSkunk (Hunt + Trap: Stat
- ewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day
- \nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nDeer (Archery: Disease surveillance areas\, Statewide | Gun: Statew
+ ide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day
+  (With Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake 
+ Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronte
+ d Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMi
+ nk (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping
+ : Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewi
+ de | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statew
+ ide): None\n\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nSk
+ unk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSqu
+ irrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lak
+ e Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Species
 DTSTART;VALUE=DATE:20251205
 DTEND;VALUE=DATE:20251206
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nCrow (Statewide): None\nDeer (Archery: Disease surveillance areas\, Sta
- tewide | Gun: Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, 
- North Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None
- \nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, an
- d White-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Lig
- ht Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat
-  (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap:
-  Statewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: 
- Statewide): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\n
- Skunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nSqu
- irrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake 
- Erie Marsh Zone): None
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveillance areas
+ \, Statewide | Gun: Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh
+  Zone\, North Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statew
+ ide): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, C
+ ackling\, and White-Fronted Geese\, and may include no more than 1 Brant\,
+  10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide):
+  None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpo
+ ssum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRa
+ ccoon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Onl
+ y: Statewide): 2/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Eri
+ e Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap:
+  Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251208
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nCrow (Statewide): None\nDeer (Archery: Disease surveillance areas\, Sta
- tewide | Gun: Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, 
- North Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None
- \nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, an
- d White-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Lig
- ht Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat
-  (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap:
-  Statewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: 
- Statewide): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\n
- Skunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nSqu
- irrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake 
- Erie Marsh Zone): None\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveillance areas
+ \, Statewide | Gun: Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh
+  Zone\, North Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statew
+ ide): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, C
+ ackling\, and White-Fronted Geese\, and may include no more than 1 Brant\,
+  10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide):
+  None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpo
+ ssum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRa
+ ccoon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Onl
+ y: Statewide): 2/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Eri
+ e Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap:
+  Statewide | Trapping: Lake Erie Marsh Zone): None\n\nWilson’s Snipe (St
+ atewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Species
 DTSTART;VALUE=DATE:20251208
 DTEND;VALUE=DATE:20251212
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit M
- ap\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (With Restrictions)\nF
- ox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zon
- e): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include n
- o more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh
-  Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statew
- ide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zo
- ne): None\nRaccoon (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (R
- oosters Only: Statewide): 2/Day\nSkunk (Hunt + Trap: Statewide | Trapping:
-  Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + 
- Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nWilson’s Snipe 
- (Statewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Lim
+ it Map\n\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Day (With Restrictio
+ ns)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\,
+  North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may
+  include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lak
+ e Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh
+  Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: La
+ ke Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRin
+ g-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nSkunk (Hunt + Trap:
+  Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide)
+ : 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone
+ ): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nCrow (Statewide): None\nDeer (Archery: Disease surveillance areas\, Sta
- tewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Zone): 6/Da
- y (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Eri
- e Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted G
- eese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMink (T
- rapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake 
- Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trap
- ping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\
- nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nSkunk (Hunt + Tra
- p: Statewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide)
- : 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone):
-  None\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveillance areas
+ \, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone\, North Zon
+ e): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoo
+ se (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and Whi
+ te-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light Ge
+ ese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat 
+ (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap
+ : Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Tra
+ p: Statewide): None\n\nRing-Necked Pheasant (Roosters Only: Statewide): 2/
+ Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): No
+ ne\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trap
+ ping: Lake Erie Marsh Zone): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251215
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nCrow (Statewide): None\nDeer (Archery: Disease surveillance areas\, Sta
- tewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Zone\, Sout
- h Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGo
- ose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and Wh
- ite-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light G
- eese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMorning Dov
- e (Statewide): 15/Day\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide
- ): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone)
- : None\nRaccoon (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (Roos
- ters Only: Statewide): 2/Day\nSkunk (Hunt + Trap: Statewide | Trapping: La
- ke Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Tra
- p: Statewide | Trapping: Lake Erie Marsh Zone): None\nWilson’s Snipe (St
- atewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveillance areas
+ \, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone\, North Zon
+ e\, South Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide)
+ : None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackl
+ ing\, and White-Fronted Geese\, and may include no more than 1 Brant\, 10/
+ Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): Non
+ e\n\nMorning Dove (Statewide): 15/Day\n\nMuskrat (Trapping: Lake Erie Mars
+ h Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: L
+ ake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRi
+ ng-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nSkunk (Hunt + Trap
+ : Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide
+ ): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zon
+ e): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20251215
 DTEND;VALUE=DATE:20251219
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit M
- ap\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With Res
- trictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zon
- e\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and 
- may include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: La
- ke Erie Marsh Zone\, Statewide): None\nMorning Dove (Statewide): 15/Day\nM
- uskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt +
-  Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + 
- Trap: Statewide): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2
- /Day\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): Non
- e\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping:
-  Lake Erie Marsh Zone): None\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Lim
+ it Map\n\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (Wi
+ th Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie
+  Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Ge
+ ese\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (
+ Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMorning Dove (Statewi
+ de): 15/Day\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\
+ n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+ \n\nRaccoon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Rooste
+ rs Only: Statewide): 2/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: La
+ ke Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt +
+  Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nWilson’s Sni
+ pe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nCrow (Statewide): None\nDeer (Archery: Disease surveillance areas\, Sta
- tewide): See Bag Limit Map\nDuck (Lake Erie Marsh Zone\, North Zone\, Sout
- h Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGo
- ose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and Wh
- ite-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light G
- eese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMorning Dov
- e (Statewide): 15/Day\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide
- ): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone)
- : None\nRaccoon (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (Roos
- ters Only: Statewide): 2/Day\nSkunk (Hunt + Trap: Statewide | Trapping: La
- ke Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Tra
- p: Statewide | Trapping: Lake Erie Marsh Zone): None\nWilson’s Snipe (St
- atewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveillance areas
+ \, Statewide): See Bag Limit Map\n\nDuck (Lake Erie Marsh Zone\, North Zon
+ e\, South Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide)
+ : None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackl
+ ing\, and White-Fronted Geese\, and may include no more than 1 Brant\, 10/
+ Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): Non
+ e\n\nMorning Dove (Statewide): 15/Day\n\nMuskrat (Trapping: Lake Erie Mars
+ h Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: L
+ ake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRi
+ ng-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nSkunk (Hunt + Trap
+ : Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide
+ ): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zon
+ e): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251222
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nCrow (Statewide): None\nDeer (Archery: Disease surveillance areas\, Sta
- tewide | Gun Bonus: Statewide): See Bag Limit Map\nDuck (Lake Erie Marsh Z
- one\, North Zone\, South Zone): 6/Day (With Restrictions)\nFox (Hunt + Tra
- p: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Can
- ada\, Cackling\, and White-Fronted Geese\, and may include no more than 1 
- Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statew
- ide): None\nMorning Dove (Statewide): 15/Day\nMuskrat (Trapping: Lake Erie
-  Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trapping
- : Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRin
- g-Necked Pheasant (Roosters Only: Statewide): 2/Day\nSkunk (Hunt + Trap: S
- tatewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/
- Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): Non
- e\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveillance areas
+ \, Statewide | Gun Bonus: Statewide): See Bag Limit Map\n\nDuck (Lake Erie
+  Marsh Zone\, North Zone\, South Zone): 6/Day (With Restrictions)\n\nFox (
+ Hunt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\, North Zone)
+ : 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include no 
+ more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh
+  Zone\, Statewide): None\n\nMorning Dove (Statewide): 15/Day\n\nMuskrat (T
+ rapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: 
+ Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap:
+  Statewide): None\n\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Da
+ y\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+ \n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trappi
+ ng: Lake Erie Marsh Zone): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20251226
-DESCRIPTION:Chukar (Statewide): 4/Day\nCottontail Rabbit (Statewide): 4/Da
- y\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Limit M
- ap\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With Res
- trictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zon
- e\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and 
- may include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: La
- ke Erie Marsh Zone\, Statewide): None\nMorning Dove (Statewide): 15/Day\nM
- uskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt +
-  Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + 
- Trap: Statewide): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2
- /Day\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): Non
- e\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping:
-  Lake Erie Marsh Zone): None\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Chukar (Statewide): 4/Day\n\nCottontail Rabbit (Statewide): 4/
+ Day\n\nDeer (Archery: Disease surveillance areas\, Statewide): See Bag Lim
+ it Map\n\nDuck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (Wi
+ th Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie
+  Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Ge
+ ese\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (
+ Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMorning Dove (Statewi
+ de): 15/Day\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\
+ n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+ \n\nRaccoon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Rooste
+ rs Only: Statewide): 2/Day\n\nSkunk (Hunt + Trap: Statewide | Trapping: La
+ ke Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt +
+  Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nWilson’s Sni
+ pe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19 Species
 DTSTART;VALUE=DATE:20251226
 DTEND;VALUE=DATE:20251229
-DESCRIPTION:Beaver (Trapping: Statewide): None\nChukar (Statewide): 4/Day\
- nCottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Arche
- ry: Disease surveillance areas\, Statewide): See Bag Limit Map\nDuck (Lake
-  Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With Restrictions)\nFo
- x (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zone
- ): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include no
-  more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh 
- Zone\, Statewide): None\nMorning Dove (Statewide): 15/Day\nMuskrat (Trappi
- ng: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Statewi
- de | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewid
- e): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRiver Ot
- ter (Trapping: Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season
- \nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nS
- quirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lak
- e Erie Marsh Zone): None\nWilson’s Snipe (Statewide): 8/Day
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nDee
+ r (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\n\n
+ Duck (Lake Erie Marsh Zone\, North Zone\, South Zone): 6/Day (With Restric
+ tions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zon
+ e\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and 
+ may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: 
+ Lake Erie Marsh Zone\, Statewide): None\n\nMorning Dove (Statewide): 15/Da
+ y\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum
+  (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRaccoo
+ n (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Only: S
+ tatewide): 2/Day\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRiver Otte
+ r (Trapping: Zone B): 1/Season\n\nSkunk (Hunt + Trap: Statewide | Trapping
+ : Lake Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hu
+ nt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nWilson’s
+  Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18 Species
 DTSTART;VALUE=DATE:20251229
 DTEND;VALUE=DATE:20260102
-DESCRIPTION:Beaver (Trapping: Statewide): None\nChukar (Statewide): 4/Day\
- nCottontail Rabbit (Statewide): 4/Day\nDeer (Archery: Disease surveillance
-  areas\, Statewide): See Bag Limit Map\nDuck (North Zone\, South Zone): 6/
- Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake E
- rie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted
-  Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMink 
- (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMorning Dove (Statewid
- e): 15/Day\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOp
- ossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRac
- coon (Hunt + Trap: Statewide): None\nRing-Necked Pheasant (Roosters Only: 
- Statewide): 2/Day\nRiver Otter (Trapping: Zone A): 3/Season\nRiver Otter (
- Trapping: Zone B): 1/Season\nSkunk (Hunt + Trap: Statewide | Trapping: Lak
- e Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap
- : Statewide | Trapping: Lake Erie Marsh Zone): None\nWilson’s Snipe (Sta
- tewide): 8/Day
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nDeer (Archery: Disease survei
+ llance areas\, Statewide): See Bag Limit Map\n\nDuck (North Zone\, South Z
+ one): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nG
+ oose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and W
+ hite-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light 
+ Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMornin
+ g Dove (Statewide): 15/Day\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, St
+ atewide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Ma
+ rsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRing-Necked P
+ heasant (Roosters Only: Statewide): 2/Day\n\nRiver Otter (Trapping: Zone A
+ ): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSkunk (Hunt + T
+ rap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statew
+ ide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh 
+ Zone): None\n\nWilson’s Snipe (Statewide): 8/Day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
-DESCRIPTION:Beaver (Trapping: Statewide): None\nChukar (Statewide): 4/Day\
- nCottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Arche
- ry: Disease surveillance areas\, Statewide): See Bag Limit Map\nDuck (Nort
- h Zone\, South Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewi
- de): None\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cack
- ling\, and White-Fronted Geese\, and may include no more than 1 Brant\, 10
- /Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None
- \nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hun
- t + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt
-  + Trap: Statewide): None\nRing-Necked Pheasant (Roosters Only: Statewide)
- : 2/Day\nRiver Otter (Trapping: Zone A): 3/Season\nRiver Otter (Trapping: 
- Zone B): 1/Season\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Mar
- sh Zone): None\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewid
- e | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nDee
+ r (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\n\n
+ Duck (North Zone\, South Zone): 6/Day (With Restrictions)\n\nFox (Hunt + T
+ rap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day:
+  Canada\, Cackling\, and White-Fronted Geese\, and may include no more tha
+ n 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, 
+ Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): 
+ None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone):
+  None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (R
+ oosters Only: Statewide): 2/Day\n\nRiver Otter (Trapping: Zone A): 3/Seaso
+ n\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSkunk (Hunt + Trap: State
+ wide | Trapping: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Da
+ y\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): Non
+ e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260105
-DESCRIPTION:Beaver (Trapping: Statewide): None\nChukar (Statewide): 4/Day\
- nCottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Arche
- ry: Disease surveillance areas\, Statewide | Muzzleloader: Statewide): See
-  Bag Limit Map\nDuck (North Zone\, South Zone): 6/Day (With Restrictions)\
- nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Z
- one): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include
-  no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Mar
- sh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Stat
- ewide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh 
- Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRing-Necked Pheasant 
- (Roosters Only: Statewide): 2/Day\nRiver Otter (Trapping: Zone A): 3/Seaso
- n\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Hunt + Trap: Statewide
-  | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nWea
- sel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nDee
+ r (Archery: Disease surveillance areas\, Statewide | Muzzleloader: Statewi
+ de): See Bag Limit Map\n\nDuck (North Zone\, South Zone): 6/Day (With Rest
+ rictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh 
+ Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, a
+ nd may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trappin
+ g: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie
+  Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | Trappi
+ ng: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\
+ n\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nRiver Otter (
+ Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Season\n\
+ nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\n
+ Squirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: 
+ Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260107
-DESCRIPTION:Beaver (Trapping: Statewide): None\nChukar (Statewide): 4/Day\
- nCottontail Rabbit (Statewide): 4/Day\nDeer (Archery: Disease surveillance
-  areas\, Statewide | Muzzleloader: Statewide): See Bag Limit Map\nDuck (So
- uth Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\n
- Goose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and 
- White-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light
-  Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (
- Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: S
- tatewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: St
- atewide): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRi
- ver Otter (Trapping: Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/
- Season\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): N
- one\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trappin
- g: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nDeer (Archery: Disease survei
+ llance areas\, Statewide | Muzzleloader: Statewide): See Bag Limit Map\n\n
+ Duck (South Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewid
+ e): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cac
+ kling\, and White-Fronted Geese\, and may include no more than 1 Brant\, 1
+ 0/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): N
+ one\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOposs
+ um (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRacc
+ oon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Only:
+  Statewide): 2/Day\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRiver Ot
+ ter (Trapping: Zone B): 1/Season\n\nSkunk (Hunt + Trap: Statewide | Trappi
+ ng: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (
+ Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Species
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260109
-DESCRIPTION:Beaver (Trapping: Statewide): None\nChukar (Statewide): 4/Day\
- nCottontail Rabbit (Statewide): 4/Day\nDeer (Archery: Disease surveillance
-  areas\, Statewide): See Bag Limit Map\nDuck (South Zone): 6/Day (With Res
- trictions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zon
- e\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and 
- may include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: La
- ke Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh 
- Zone\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake 
- Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRing-Necke
- d Pheasant (Roosters Only: Statewide): 2/Day\nRiver Otter (Trapping: Zone 
- A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Hunt + Trap
- : Statewide | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide):
-  6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): 
- None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nDeer (Archery: Disease survei
+ llance areas\, Statewide): See Bag Limit Map\n\nDuck (South Zone): 6/Day (
+ With Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Er
+ ie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted 
+ Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink
+  (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: 
+ Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide
+  | Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewid
+ e): None\n\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\n\nRive
+ r Otter (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/
+ Season\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone):
+  None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | T
+ rapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Species
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260112
-DESCRIPTION:Beaver (Trapping: Statewide): None\nChukar (Statewide): 4/Day\
- nCottontail Rabbit (Statewide): 4/Day\nCrow (Statewide): None\nDeer (Arche
- ry: Disease surveillance areas\, Statewide): See Bag Limit Map\nDuck (Sout
- h Zone): 6/Day (With Restrictions)\nFox (Hunt + Trap: Statewide): None\nGo
- ose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and Wh
- ite-Fronted Geese\, and may include no more than 1 Brant\, 10/Day: Light G
- eese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Tr
- apping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Hunt + Trap: Sta
- tewide | Trapping: Lake Erie Marsh Zone): None\nRaccoon (Hunt + Trap: Stat
- ewide): None\nRing-Necked Pheasant (Roosters Only: Statewide): 2/Day\nRive
- r Otter (Trapping: Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Se
- ason\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): Non
- e\nSquirrel (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping:
-  Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nChukar (Statewide): 4/Da
+ y\n\nCottontail Rabbit (Statewide): 4/Day\n\nCrow (Statewide): None\n\nDee
+ r (Archery: Disease surveillance areas\, Statewide): See Bag Limit Map\n\n
+ Duck (South Zone): 6/Day (With Restrictions)\n\nFox (Hunt + Trap: Statewid
+ e): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cac
+ kling\, and White-Fronted Geese\, and may include no more than 1 Brant\, 1
+ 0/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): N
+ one\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOposs
+ um (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nRacc
+ oon (Hunt + Trap: Statewide): None\n\nRing-Necked Pheasant (Roosters Only:
+  Statewide): 2/Day\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRiver Ot
+ ter (Trapping: Zone B): 1/Season\n\nSkunk (Hunt + Trap: Statewide | Trappi
+ ng: Lake Erie Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (
+ Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14 Species
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260116
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nDeer (Archery: Disease surveillance areas\, Statewide): See Ba
- g Limit Map\nDuck (South Zone): 6/Day (With Restrictions)\nFox (Hunt + Tra
- p: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Can
- ada\, Cackling\, and White-Fronted Geese\, and may include no more than 1 
- Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statew
- ide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOp
- ossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRac
- coon (Hunt + Trap: Statewide): None\nRiver Otter (Trapping: Zone A): 3/Sea
- son\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Hunt + Trap: Statewi
- de | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nW
- easel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nDeer (Archery: Disease surveillance areas\, Statewide): Se
+ e Bag Limit Map\n\nDuck (South Zone): 6/Day (With Restrictions)\n\nFox (Hu
+ nt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 
+ 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include no mo
+ re than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Z
+ one\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statew
+ ide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh 
+ Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRiver Otter (Trap
+ ping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSku
+ nk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSqui
+ rrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake
+  Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Species
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260119
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nDuck (South Zone): 6/Day (With Restri
- ctions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\,
-  North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may
-  include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake 
- Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zon
- e\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Eri
- e Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRiver Otter (
- Trapping: Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSku
- nk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nSquirr
- el (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Eri
- e Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveilla
+ nce areas\, Statewide): See Bag Limit Map\n\nDuck (South Zone): 6/Day (Wit
+ h Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie 
+ Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Gee
+ se\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (T
+ rapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lak
+ e Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | 
+ Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide):
+  None\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping
+ : Zone B): 1/Season\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie
+  Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: 
+ Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14 Species
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260123
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nDeer (Archery: Disease surveillance areas\, Statewide): See Ba
- g Limit Map\nDuck (South Zone): 6/Day (With Restrictions)\nFox (Hunt + Tra
- p: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Can
- ada\, Cackling\, and White-Fronted Geese\, and may include no more than 1 
- Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statew
- ide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOp
- ossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRac
- coon (Hunt + Trap: Statewide): None\nRiver Otter (Trapping: Zone A): 3/Sea
- son\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Hunt + Trap: Statewi
- de | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nW
- easel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nDeer (Archery: Disease surveillance areas\, Statewide): Se
+ e Bag Limit Map\n\nDuck (South Zone): 6/Day (With Restrictions)\n\nFox (Hu
+ nt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 
+ 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include no mo
+ re than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Z
+ one\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statew
+ ide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh 
+ Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRiver Otter (Trap
+ ping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSku
+ nk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSqui
+ rrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake
+  Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Species
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260126
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nDuck (South Zone): 6/Day (With Restri
- ctions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\,
-  North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may
-  include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake 
- Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zon
- e\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Eri
- e Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRiver Otter (
- Trapping: Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSku
- nk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nSquirr
- el (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Eri
- e Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveilla
+ nce areas\, Statewide): See Bag Limit Map\n\nDuck (South Zone): 6/Day (Wit
+ h Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie 
+ Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Gee
+ se\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (T
+ rapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lak
+ e Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | 
+ Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide):
+  None\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping
+ : Zone B): 1/Season\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie
+  Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: 
+ Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14 Species
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260130
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nDeer (Archery: Disease surveillance areas\, Statewide): See Ba
- g Limit Map\nDuck (South Zone): 6/Day (With Restrictions)\nFox (Hunt + Tra
- p: Statewide): None\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Can
- ada\, Cackling\, and White-Fronted Geese\, and may include no more than 1 
- Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statew
- ide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOp
- ossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nRac
- coon (Hunt + Trap: Statewide): None\nRiver Otter (Trapping: Zone A): 3/Sea
- son\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Hunt + Trap: Statewi
- de | Trapping: Lake Erie Marsh Zone): None\nSquirrel (Statewide): 6/Day\nW
- easel (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nDeer (Archery: Disease surveillance areas\, Statewide): Se
+ e Bag Limit Map\n\nDuck (South Zone): 6/Day (With Restrictions)\n\nFox (Hu
+ nt + Trap: Statewide): None\n\nGoose (Lake Erie Marsh Zone\, North Zone): 
+ 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include no mo
+ re than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Z
+ one\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statew
+ ide): None\n\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh 
+ Zone): None\n\nRaccoon (Hunt + Trap: Statewide): None\n\nRiver Otter (Trap
+ ping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSku
+ nk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\n\nSqui
+ rrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: Statewide | Trapping: Lake
+  Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Species
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260201
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nDuck (South Zone): 6/Day (With Restri
- ctions)\nFox (Hunt + Trap: Statewide): None\nGoose (Lake Erie Marsh Zone\,
-  North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may
-  include no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake 
- Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zon
- e\, Statewide): None\nOpossum (Hunt + Trap: Statewide | Trapping: Lake Eri
- e Marsh Zone): None\nRaccoon (Hunt + Trap: Statewide): None\nRiver Otter (
- Trapping: Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSku
- nk (Hunt + Trap: Statewide | Trapping: Lake Erie Marsh Zone): None\nSquirr
- el (Statewide): 6/Day\nWeasel (Hunt + Trap: Statewide | Trapping: Lake Eri
- e Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveilla
+ nce areas\, Statewide): See Bag Limit Map\n\nDuck (South Zone): 6/Day (Wit
+ h Restrictions)\n\nFox (Hunt + Trap: Statewide): None\n\nGoose (Lake Erie 
+ Marsh Zone\, North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Gee
+ se\, and may include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (T
+ rapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lak
+ e Erie Marsh Zone\, Statewide): None\n\nOpossum (Hunt + Trap: Statewide | 
+ Trapping: Lake Erie Marsh Zone): None\n\nRaccoon (Hunt + Trap: Statewide):
+  None\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping
+ : Zone B): 1/Season\n\nSkunk (Hunt + Trap: Statewide | Trapping: Lake Erie
+  Marsh Zone): None\n\nSquirrel (Statewide): 6/Day\n\nWeasel (Hunt + Trap: 
+ Statewide | Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11 Species
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nDeer (Archery: Disease surveillance ar
- eas\, Statewide): See Bag Limit Map\nGoose (Lake Erie Marsh Zone\, North Z
- one): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may include
-  no more than 1 Brant\, 10/Day: Light Geese\nMink (Trapping: Lake Erie Mar
- sh Zone\, Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Stat
- ewide): None\nOpossum (Trapping: Lake Erie Marsh Zone): None\nRiver Otter 
- (Trapping: Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSk
- unk (Trapping: Lake Erie Marsh Zone): None\nWeasel (Trapping: Lake Erie Ma
- rsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nDeer (Archery: Disease surveilla
+ nce areas\, Statewide): See Bag Limit Map\n\nGoose (Lake Erie Marsh Zone\,
+  North Zone): 5/Day: Canada\, Cackling\, and White-Fronted Geese\, and may
+  include no more than 1 Brant\, 10/Day: Light Geese\n\nMink (Trapping: Lak
+ e Erie Marsh Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh
+  Zone\, Statewide): None\n\nOpossum (Trapping: Lake Erie Marsh Zone): None
+ \n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zon
+ e B): 1/Season\n\nSkunk (Trapping: Lake Erie Marsh Zone): None\n\nWeasel (
+ Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260203
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\, Cac
- kling\, and White-Fronted Geese\, and may include no more than 1 Brant\, 1
- 0/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): Non
- e\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Tr
- apping: Lake Erie Marsh Zone): None\nRiver Otter (Trapping: Zone A): 3/Sea
- son\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Trapping: Lake Erie 
- Marsh Zone): None\nWeasel (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nGoose (Lake Erie Marsh Zone\, North Zone): 5/Day: Canada\,
+  Cackling\, and White-Fronted Geese\, and may include no more than 1 Brant
+ \, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide
+ ): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nO
+ possum (Trapping: Lake Erie Marsh Zone): None\n\nRiver Otter (Trapping: Zo
+ ne A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSkunk (Trap
+ ping: Lake Erie Marsh Zone): None\n\nWeasel (Trapping: Lake Erie Marsh Zon
+ e): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260206
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nGoose (North Zone): 5/Day: Canada\, Cackling\, and White-Front
- ed Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMin
- k (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: L
- ake Erie Marsh Zone\, Statewide): None\nOpossum (Trapping: Lake Erie Marsh
-  Zone): None\nRiver Otter (Trapping: Zone A): 3/Season\nRiver Otter (Trapp
- ing: Zone B): 1/Season\nSkunk (Trapping: Lake Erie Marsh Zone): None\nWeas
- el (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nGoose (North Zone): 5/Day: Canada\, Cackling\, and White-F
+ ronted Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\
+ n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Tra
+ pping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Trapping: Lake 
+ Erie Marsh Zone): None\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRive
+ r Otter (Trapping: Zone B): 1/Season\n\nSkunk (Trapping: Lake Erie Marsh Z
+ one): None\n\nWeasel (Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Species
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260209
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nGoose (North Zone): 5/Day: Canada\, Ca
- ckling\, and White-Fronted Geese\, and may include no more than 1 Brant\, 
- 10/Day: Light Geese\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): No
- ne\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (T
- rapping: Lake Erie Marsh Zone): None\nRiver Otter (Trapping: Zone A): 3/Se
- ason\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Trapping: Lake Erie
-  Marsh Zone): None\nWeasel (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nGoose (North Zone): 5/Day: Canad
+ a\, Cackling\, and White-Fronted Geese\, and may include no more than 1 Br
+ ant\, 10/Day: Light Geese\n\nMink (Trapping: Lake Erie Marsh Zone\, Statew
+ ide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n
+ \nOpossum (Trapping: Lake Erie Marsh Zone): None\n\nRiver Otter (Trapping:
+  Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSkunk (T
+ rapping: Lake Erie Marsh Zone): None\n\nWeasel (Trapping: Lake Erie Marsh 
+ Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260210
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nGoose (North Zone): 5/Day: Canada\, Cackling\, and White-Front
- ed Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\nMin
- k (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskrat (Trapping: L
- ake Erie Marsh Zone\, Statewide): None\nOpossum (Trapping: Lake Erie Marsh
-  Zone): None\nRiver Otter (Trapping: Zone A): 3/Season\nRiver Otter (Trapp
- ing: Zone B): 1/Season\nSkunk (Trapping: Lake Erie Marsh Zone): None\nWeas
- el (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nGoose (North Zone): 5/Day: Canada\, Cackling\, and White-F
+ ronted Geese\, and may include no more than 1 Brant\, 10/Day: Light Geese\
+ n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nMuskrat (Tra
+ pping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Trapping: Lake 
+ Erie Marsh Zone): None\n\nRiver Otter (Trapping: Zone A): 3/Season\n\nRive
+ r Otter (Trapping: Zone B): 1/Season\n\nSkunk (Trapping: Lake Erie Marsh Z
+ one): None\n\nWeasel (Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20260210
 DTEND;VALUE=DATE:20260213
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskr
- at (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Trapping: 
- Lake Erie Marsh Zone): None\nRiver Otter (Trapping: Zone A): 3/Season\nRiv
- er Otter (Trapping: Zone B): 1/Season\nSkunk (Trapping: Lake Erie Marsh Zo
- ne): None\nWeasel (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\
+ nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Tr
+ apping: Lake Erie Marsh Zone): None\n\nRiver Otter (Trapping: Zone A): 3/S
+ eason\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSkunk (Trapping: Lake
+  Erie Marsh Zone): None\n\nWeasel (Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260216
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nMink (Trapping: Lake Erie Marsh Zone\,
-  Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): N
- one\nOpossum (Trapping: Lake Erie Marsh Zone): None\nRiver Otter (Trapping
- : Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Trap
- ping: Lake Erie Marsh Zone): None\nWeasel (Trapping: Lake Erie Marsh Zone)
- : None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nMink (Trapping: Lake Erie Marsh 
+ Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, State
+ wide): None\n\nOpossum (Trapping: Lake Erie Marsh Zone): None\n\nRiver Ott
+ er (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Seaso
+ n\n\nSkunk (Trapping: Lake Erie Marsh Zone): None\n\nWeasel (Trapping: Lak
+ e Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260220
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskr
- at (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Trapping: 
- Lake Erie Marsh Zone): None\nRiver Otter (Trapping: Zone A): 3/Season\nRiv
- er Otter (Trapping: Zone B): 1/Season\nSkunk (Trapping: Lake Erie Marsh Zo
- ne): None\nWeasel (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\
+ nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Tr
+ apping: Lake Erie Marsh Zone): None\n\nRiver Otter (Trapping: Zone A): 3/S
+ eason\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSkunk (Trapping: Lake
+  Erie Marsh Zone): None\n\nWeasel (Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260223
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nMink (Trapping: Lake Erie Marsh Zone\,
-  Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): N
- one\nOpossum (Trapping: Lake Erie Marsh Zone): None\nRiver Otter (Trapping
- : Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Trap
- ping: Lake Erie Marsh Zone): None\nWeasel (Trapping: Lake Erie Marsh Zone)
- : None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nMink (Trapping: Lake Erie Marsh 
+ Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, State
+ wide): None\n\nOpossum (Trapping: Lake Erie Marsh Zone): None\n\nRiver Ott
+ er (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Seaso
+ n\n\nSkunk (Trapping: Lake Erie Marsh Zone): None\n\nWeasel (Trapping: Lak
+ e Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Species
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260227
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\nMuskr
- at (Trapping: Lake Erie Marsh Zone\, Statewide): None\nOpossum (Trapping: 
- Lake Erie Marsh Zone): None\nRiver Otter (Trapping: Zone A): 3/Season\nRiv
- er Otter (Trapping: Zone B): 1/Season\nSkunk (Trapping: Lake Erie Marsh Zo
- ne): None\nWeasel (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nMink (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\
+ nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): None\n\nOpossum (Tr
+ apping: Lake Erie Marsh Zone): None\n\nRiver Otter (Trapping: Zone A): 3/S
+ eason\n\nRiver Otter (Trapping: Zone B): 1/Season\n\nSkunk (Trapping: Lake
+  Erie Marsh Zone): None\n\nWeasel (Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Species
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260301
-DESCRIPTION:Beaver (Trapping: Statewide): None\nCottontail Rabbit (Statewi
- de): 4/Day\nCrow (Statewide): None\nMink (Trapping: Lake Erie Marsh Zone\,
-  Statewide): None\nMuskrat (Trapping: Lake Erie Marsh Zone\, Statewide): N
- one\nOpossum (Trapping: Lake Erie Marsh Zone): None\nRiver Otter (Trapping
- : Zone A): 3/Season\nRiver Otter (Trapping: Zone B): 1/Season\nSkunk (Trap
- ping: Lake Erie Marsh Zone): None\nWeasel (Trapping: Lake Erie Marsh Zone)
- : None
+DESCRIPTION:Beaver (Trapping: Statewide): None\n\nCottontail Rabbit (State
+ wide): 4/Day\n\nCrow (Statewide): None\n\nMink (Trapping: Lake Erie Marsh 
+ Zone\, Statewide): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone\, State
+ wide): None\n\nOpossum (Trapping: Lake Erie Marsh Zone): None\n\nRiver Ott
+ er (Trapping: Zone A): 3/Season\n\nRiver Otter (Trapping: Zone B): 1/Seaso
+ n\n\nSkunk (Trapping: Lake Erie Marsh Zone): None\n\nWeasel (Trapping: Lak
+ e Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6 Species
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
-DESCRIPTION:Crow (Statewide): None\nMink (Trapping: Lake Erie Marsh Zone):
-  None\nMuskrat (Trapping: Lake Erie Marsh Zone): None\nOpossum (Trapping: 
- Lake Erie Marsh Zone): None\nSkunk (Trapping: Lake Erie Marsh Zone): None\
- nWeasel (Trapping: Lake Erie Marsh Zone): None
+DESCRIPTION:Crow (Statewide): None\n\nMink (Trapping: Lake Erie Marsh Zone
+ ): None\n\nMuskrat (Trapping: Lake Erie Marsh Zone): None\n\nOpossum (Trap
+ ping: Lake Erie Marsh Zone): None\n\nSkunk (Trapping: Lake Erie Marsh Zone
+ ): None\n\nWeasel (Trapping: Lake Erie Marsh Zone): None
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5 Species
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260316
-DESCRIPTION:Mink (Trapping: Lake Erie Marsh Zone): None\nMuskrat (Trapping
- : Lake Erie Marsh Zone): None\nOpossum (Trapping: Lake Erie Marsh Zone): N
- one\nSkunk (Trapping: Lake Erie Marsh Zone): None\nWeasel (Trapping: Lake 
- Erie Marsh Zone): None
+DESCRIPTION:Mink (Trapping: Lake Erie Marsh Zone): None\n\nMuskrat (Trappi
+ ng: Lake Erie Marsh Zone): None\n\nOpossum (Trapping: Lake Erie Marsh Zone
+ ): None\n\nSkunk (Trapping: Lake Erie Marsh Zone): None\n\nWeasel (Trappin
+ g: Lake Erie Marsh Zone): None
 END:VEVENT
 END:VCALENDAR
